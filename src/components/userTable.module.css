@@ -1,0 +1,23 @@
+.user_table_container {
+  display: flex;
+  flex-flow: column nowrap;
+  border: 1px solid black;
+}
+
+.row {
+  display: flex;
+  border-bottom: 1px solid black;
+}
+
+.heading {
+  font-weight: bold;
+}
+
+.cell {
+  display: flex;
+  flex: 1;
+  margin: 5px;
+  /* flex-direction: column; */
+  justify-content: space-around;
+  align-items: center;
+}
