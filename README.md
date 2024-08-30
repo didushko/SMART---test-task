@@ -1,6 +1,7 @@
 # About
 
-This is test task for SMART,
+This is test task for SMART
+Running instance avalible by [this link](https://smart-test-task-tau.vercel.app/)
 
 ## Requirements:
 
